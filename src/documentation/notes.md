@@ -22,6 +22,7 @@
 - Strategy Pattern
 - Factory Pattern
 - Long Parameter List
+- Primitive Obsession
 
 # Nomenclatures
 - MOCK -> Preoccupation with input
