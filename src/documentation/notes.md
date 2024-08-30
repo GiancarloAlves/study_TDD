@@ -7,6 +7,9 @@
 - Test Code in Production
 - Replicate Code
 - Shotgun Surgery
+- Bad Naming 
+- Long Parameter List
+- Primitive Obsession
 
 # Design Patterns/Principles/Conventions
 - You Ain't Gonna Need It (YAGNI)
@@ -21,8 +24,7 @@
 - System Under Test (SUT)
 - Strategy Pattern
 - Factory Pattern
-- Long Parameter List
-- Primitive Obsession
+- Clean Code
 
 # Nomenclatures
 - MOCK -> Preoccupation with input
